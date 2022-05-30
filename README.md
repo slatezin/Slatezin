@@ -1,4 +1,12 @@
-### Hi there 👋
+### Bem Vindo ###
+- 😄 Jonathan Costa
+- 🤔 26 Anos
+- 🔭 Aprendiz de programação
+- 🌱 Futuro backend
+
+
+# Estudos-C-
+
 
 <!--
 **slatezin/Slatezin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
